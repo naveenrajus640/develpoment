@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hi raju
-=======
-hi naveen raju s
->>>>>>> origin/main
